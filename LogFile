@@ -1,2 +1,6 @@
-Tema proiectului meu este un web application, un e-commerce site pentru vanzarea dispozitivelor electrice. 
+Tema proiectului meu este un web application, un e-commerce site pentru vanzarea dispozitivelor electrice (TV, telefoane, laptopuri, etc). 
 Arhitectura va fi MVC, voi lucra in C# iar tipul proiectului va fi ASP.NET MVC 4 Web Application.
+
+Am inceput documentatia proiectului, am completat in fisierul Analisys and Design Document capitolul Project Specification 
+si capitolul Elaboration - Iteration 1.1, adica am facut Domain model si Architectural Design (Conceptual Architecture, Package Design si 
+Deployment diagram).
